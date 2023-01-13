@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @waeekron
-- 👀 I’m interested in Typescript, React and fullstack development :)
-- 🌱 I’m currently studying for my bachelor's degree in computer science
+- 🌱 I’m currently studying for my bachelor's degree in computer science.
 
 
 
