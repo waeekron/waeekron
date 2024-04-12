@@ -1,9 +1,9 @@
-# Software developer
+# Moi!
 
 
 
 - Currently studying for my bachelor's degree in computer science.
-- Experience with Typescript, Golang, Java, React, MongoDB, SQL, GraphQL, Html/Css, Tailwind
+- Experience with Typescript, Golang, Java, React, MongoDB, SQL, GraphQL, Html/Css, Tailwind and others:)
 
 <!---
 waeekron/waeekron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
