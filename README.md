@@ -3,7 +3,7 @@
 
 
 - Currently studying for my bachelor's degree in computer science.
-- Experience with Typescript, Golang, Java, React, MongoDB, SQL, GraphQL, Html/Css, Tailwind and others:)
+- Experience with Kotlin, Typescript, Golang, Java, React, MongoDB, SQL, GraphQL, Html/Css, Tailwind and others:)
 - Open for any opportunities in software engineering!
 
 <!---
