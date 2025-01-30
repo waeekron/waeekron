@@ -3,8 +3,8 @@
 
 
 - Currently studying for my bachelor's degree in computer science.
-- Experience with Kotlin, Typescript, Golang, Java, React, MongoDB, SQL, GraphQL, Html/Css, Tailwind and others:)
-- Open for any opportunities in software engineering!
+- Experience with Kotlin, Typescript, Golang, Java, React, MongoDB, Postgres, SQL, GraphQL, Html/Css, Tailwind, Android (Jetpack Compose) and others:)
+
 
 <!---
 waeekron/waeekron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
